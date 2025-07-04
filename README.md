@@ -69,6 +69,4 @@ This project is licensed under the MIT License.
 
 Created by **Rohit Gami**
 [GitHub - rohitgami11](https://github.com/rohitgami11)
-
-```
-```
+---
