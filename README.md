@@ -2,6 +2,8 @@
 
 A lightweight web app to visualize classic sorting algorithms in real time. Built with HTML, CSS, and vanilla JavaScript, it offers an interactive way to understand how each algorithm processes data.
 
+---
+
 ## 🚀 Features
 
 - Visualizes key sorting algorithms: Bubble, Selection, Insertion, Merge, Quick
@@ -9,6 +11,8 @@ A lightweight web app to visualize classic sorting algorithms in real time. Buil
 - Generate new random arrays
 - Real-time animations of sorting steps
 - Responsive design for all screen sizes
+
+---
 
 ## 🧱 Tech Stack
 
@@ -27,12 +31,16 @@ A lightweight web app to visualize classic sorting algorithms in real time. Buil
 2. Open `index.html` in your browser.
    No additional setup or dependencies required.
 
+---
+
 ## 💡 Usage
 
 1. Select a sorting algorithm from the dropdown
 2. Adjust the array size and speed using the sliders
 3. Click **"Generate New Array"** to shuffle values
 4. Click **"Sort"** to begin visualization
+
+---
 
 ## 📈 Roadmap
 
@@ -41,6 +49,8 @@ A lightweight web app to visualize classic sorting algorithms in real time. Buil
 * Display algorithm complexity metrics
 * Add sound or color indicators for comparisons/swaps
 * Migrate to React for enhanced structure and scalability
+
+---
 
 ## 🤝 Contributing
 
@@ -60,11 +70,18 @@ Contributions are welcome!
    ```
 5. Open a Pull Request
 
+---
+
 ## 📄 License
 
-This project is licensed under the MIT License.
+Distributed under the **MIT License**. See `LICENSE` for details.
+
+---
 
 ## 📬 Contact
 
-Rohit Gami 📧 [rohitgami2003@gmail.com] GitHub: @rohitgami11
+**Rohit Gami**
+📧 \[[rohitgami2003@gmail.com](mailto:rohitgami2003@gmail.com)]
+GitHub: [@rohitgami11](https://github.com/rohitgami11)
+
 ---
