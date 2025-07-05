@@ -66,6 +66,5 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-Created by **Rohit Gami**
-[GitHub - rohitgami11](https://github.com/rohitgami11)
+Rohit Gami 📧 [rohitgami2003@gmail.com] GitHub: @rohitgami11
 ---
