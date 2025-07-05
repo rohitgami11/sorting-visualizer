@@ -1,4 +1,3 @@
-````markdown
 # Sorting Visualizer 🔍
 
 A lightweight web app to visualize classic sorting algorithms in real time. Built with HTML, CSS, and vanilla JavaScript, it offers an interactive way to understand how each algorithm processes data.
@@ -23,7 +22,7 @@ A lightweight web app to visualize classic sorting algorithms in real time. Buil
    ```bash
    git clone https://github.com/rohitgami11/sorting-visualizer.git
    cd sorting-visualizer
-````
+   ````
 
 2. Open `index.html` in your browser.
    No additional setup or dependencies required.
